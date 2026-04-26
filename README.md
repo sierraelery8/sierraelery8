@@ -117,24 +117,24 @@ Designed and deployed a personal resume webpage demonstrating clean layout struc
 
 ## Writing Project READMEs
 
-As part of building my portfolio, I updated the README files inside each of my project repositories to follow the structure recommended in the Portfolio Catch-Up resource. Each project README includes:
+As part of building my portfolio, I reviewed the README files inside each of my project repositories and updated them to follow the structure recommended in the Portfolio Catch-Up resource. Each project README now follows a consistent format that includes:
 
 ### Project Title and Description
-At the top of each README, I added a clear project title and a short description explaining what the project does and why it matters.
+Each README begins with a clear project title and a short description explaining what the project does and why it matters.
 
 ### Technologies Used
-I included a **Technologies** section listing the languages, tools, and frameworks used in each project.
+I added a **Technologies** section listing the languages, tools, and frameworks used in each project.
 
 ### Setup Instructions
-I added a **Setup** section explaining how someone can run the project.  
+I included a **Setup** section that explains how someone can run the project.  
 This includes:
 1. Cloning the repository  
 2. Installing dependencies (if needed)  
 3. Running the program or opening the file  
 
-### Screenshots or Output Examples
-For visual projects, I added a **Preview** section with screenshots.  
-For console-based projects, I included example output.
+### Screenshots or Output Examples (When Applicable)
+For visual projects, I added a **Preview** section where screenshots can be included.  
+For console-based projects, I added space for example output to show how the program behaves.
 
 ### What I Learned
 Each README ends with a **What I Learned** section where I reflect on:
@@ -149,6 +149,7 @@ I used Markdown formatting throughout my READMEs, including:
 - Bullet lists  
 - Numbered lists  
 - Links  
-- Images  
+- Images (when applicable)
 
-This ensures my READMEs are clean, readable, and professional.
+This ensures my READMEs are clean, readable, and professional, and follow the structure outlined in the Portfolio Catch-Up resource.
+
