@@ -83,7 +83,7 @@ For this assignment, I chose to use **GitHub** as my portfolio instead of creati
 
 ## Final Project Description
 
-### Plant Care Tracker API — Full Description
+### Plant Care Tracker API
 My final project, the **Plant Care Tracker API**, showcases my ability to design and build a complete backend system using Node.js, Express, PostgreSQL, Sequelize, and JWT authentication. This project reflects my growing skill stack in backend engineering, including API architecture, database modeling, and secure authentication workflows. I’m especially drawn to building systems that organize information and make everyday tasks easier, and this project allowed me to combine those interests with practical engineering skills.
 
 The API enables users to create accounts, log in securely, and manage their plants and care logs through protected routes. I implemented role‑based access control, ensuring that users can only modify their own data while admins have elevated permissions. I also designed relational database models (Users, Plants, CareLogs) and built RESTful endpoints that follow clean, consistent patterns.
