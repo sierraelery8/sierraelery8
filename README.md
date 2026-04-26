@@ -142,7 +142,7 @@ Each README ends with a **What I Learned** section where I reflect on:
 - Challenges I solved  
 - What I improved on  
 
-### ✔ Markdown Formatting
+### Markdown Formatting
 I used Markdown formatting throughout my READMEs, including:
 - `#` and `##` for headings  
 - `**bold**` and *italic* text  
