@@ -119,24 +119,24 @@ Designed and deployed a personal resume webpage demonstrating clean layout struc
 
 As part of building my portfolio, I updated the README files inside each of my project repositories to follow the structure recommended in the Portfolio Catch-Up resource. Each project README includes:
 
-### ✔ Project Title and Description
+### Project Title and Description
 At the top of each README, I added a clear project title and a short description explaining what the project does and why it matters.
 
-### ✔ Technologies Used
+### Technologies Used
 I included a **Technologies** section listing the languages, tools, and frameworks used in each project.
 
-### ✔ Setup Instructions
+### Setup Instructions
 I added a **Setup** section explaining how someone can run the project.  
 This includes:
 1. Cloning the repository  
 2. Installing dependencies (if needed)  
 3. Running the program or opening the file  
 
-### ✔ Screenshots or Output Examples
+### Screenshots or Output Examples
 For visual projects, I added a **Preview** section with screenshots.  
 For console-based projects, I included example output.
 
-### ✔ What I Learned
+### What I Learned
 Each README ends with a **What I Learned** section where I reflect on:
 - The skills I practiced  
 - Challenges I solved  
